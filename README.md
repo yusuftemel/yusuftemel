@@ -7,7 +7,7 @@
   <br>
   <br>
   <br>
-  <img src="https://github.com/Necmttn/Necmttn/blob/master/preview.gif" width="350" />
+  <img src="https://edam.org.tr/en/the-limits-of-cybersecurity-and-the-role-of-reliability/" width="350" />
 </p>
 
 ### Hi there 👋
