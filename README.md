@@ -1,3 +1,15 @@
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Hello there. I'm yusuftemel</a>.<br> I'm a Junior cyber security analyst <br><br></samp>
+  <br>
+  <br>
+  <br>
+  <br>
+  <img src="https://github.com/Necmttn/Necmttn/blob/master/preview.gif" width="350" />
+</p>
+
 ### Hi there 👋
 
 <!--
