@@ -7,7 +7,7 @@
   <br>
   <br>
   <br>
-  <img src="https://edam.org.tr/wp-content/uploads/2019/12/hack-detected.jpg" width="350" />
+  <img src="https://edam.org.tr/wp-content/uploads/2019/12/hack-detected.jpg" width="750" />
 </p>
 
 ### Hi there 👋
