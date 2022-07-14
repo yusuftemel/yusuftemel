@@ -7,7 +7,7 @@
   <br>
   <br>
   <br>
-  <img src="https://kevincorbett.com/wp-content/uploads/2017/02/ddos-attack-map.gif" width="750" />
+  <img src="https://kevincorbett.com/wp-content/uploads/2017/02/ddos-attack-map.gif" width="1000" />
 </p>
 
 ### Hi there 👋
