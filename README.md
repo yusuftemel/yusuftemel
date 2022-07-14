@@ -2,7 +2,7 @@
  <br>
  <br>
  <br>
- <samp>Hello there. I'm yusuftemel</a>.<br> I'm a junior cyber security analyst <br><br></samp>
+ <samp>Hello there, I'm yusuf temel</a>.<br> I'm a junior cyber security analyst <br><br></samp>
   <br>
   <br>
   <br>
