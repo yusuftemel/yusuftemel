@@ -2,12 +2,12 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm yusuftemel</a>.<br> I'm a Junior cyber security analyst <br><br></samp>
+  <samp>Hello there. I'm yusuftemel</a>.<br> I'm a junior cyber security analyst <br><br></samp>
   <br>
   <br>
   <br>
   <br>
-  <img src="https://edam.org.tr/wp-content/uploads/2019/12/hack-detected.jpg" width="1000" />
+  <img src="https://giffiles.alphacoders.com/119/119822.gif" width="350" />
 </p>
 
 ### Hi there 👋
