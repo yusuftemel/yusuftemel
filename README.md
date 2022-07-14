@@ -1,13 +1,10 @@
 <p align="center">
-  <br>
-  <br>
-  <br>
   <samp>Hello there. I'm yusuftemel</a>.<br> I'm a junior cyber security analyst <br><br></samp>
   <br>
   <br>
   <br>
   <br>
-  <img src="https://giffiles.alphacoders.com/119/119822.gif" width="750" />
+  <img src="https://i.gifer.com/3jCJ.gif" width="1000" />
 </p>
 
 ### Hi there 👋
