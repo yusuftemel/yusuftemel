@@ -7,7 +7,7 @@
   <br>
   <br>
   <br>
-  <img src="https://giffiles.alphacoders.com/119/119822.gif" width="350" />
+  <img src="https://giffiles.alphacoders.com/119/119822.gif" width="750" />
 </p>
 
 ### Hi there 👋
